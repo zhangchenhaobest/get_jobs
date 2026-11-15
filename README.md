@@ -1,3 +1,29 @@
+# get_jobs
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+An AI job-search assistant that automates resume submission across major Chinese job platforms.
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+AI 找工作助手：Boss 直聘、前程无忧、猎聘、智联招聘全平台自动投简历脚本。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <!-- Project overview and usage guide. -->
 <h1 align="center">🍀 Get Jobs【工作无忧】</h1>
 <div align="center">
